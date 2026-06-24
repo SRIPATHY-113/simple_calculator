@@ -1,5 +1,6 @@
 # Simple Calculator Web Application
 
+https://sripathy-113.github.io/simple_calculator/
 A clean, responsive, and minimalist web-based calculator built using pure HTML, CSS, and vanilla JavaScript. The application uses modern CSS Grid for a pixel-perfect button layout and features interactive user feedback, dynamic input evaluation, and basic error handling for edge cases.
 
 ---
